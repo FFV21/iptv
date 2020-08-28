@@ -3,7 +3,3 @@
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 #EXTINF:-1,B
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8
-#EXTINF:-1,C
-https://hls-origin01-bruzz.cdn02.rambla.be/main/adliveorigin-bruzz/_definst_/V3n5YY.smil/chunklist.m3u8
-#EXTINF:-1,D
-http://bel-lh.akamaihd.net/i/BEL_1@321282/master.m3u8
