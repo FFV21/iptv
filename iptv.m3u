@@ -5,3 +5,9 @@ https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/
 https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/live_aes.isml/playlist.m3u8?fluxustv.m3u8
 #EXTINF:-1,C KETNET
 https://live-cf-vrt.akamaized.net/groupc/live/f132f1b8-d04d-404e-90e0-6da1abb4f4fc/live_aes.isml/live_aes-audio_track_0_0_dut=128000-video_track=3000000.m3u8?fluxustv.m3u8
+#EXTINF:-1,RTBF La Une
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/de21430b75.m3u8
+#EXTINF:-1,RTBF La Deux
+http://stream-e30453a4b.nmbs.top/m3u/Belgium/104214a08a.m3u8
+#EXTINF:-1,RTBF La Trois
+http%3a//stream-e30453a4b.nmbs.top/m3u/Belgium/4b70c9647d.m3u8
